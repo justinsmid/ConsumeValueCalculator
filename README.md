@@ -6,6 +6,7 @@ You can download and use it here: https://steamcommunity.com/sharedfiles/filedet
 
 
 Known issues:
+
 -Using the toggle key (Default "H") can cause the game to crash, seemingly if it is done before bringing up the panel by clicking the button.
 
 -Currently does not take orb-triggering effects such as Loop or gold-plated cables into account, will be fixed soon
