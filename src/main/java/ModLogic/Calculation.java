@@ -20,9 +20,9 @@ public class Calculation {
     public final int valuePerOrb;
     public final boolean withConsume;
     
-    public Calculation(int value, int amountOfOrbs, int valuePerOrb, OrbType type, boolean withConsume) {
+    public Calculation(int value, int amountOfHits, int valuePerOrb, OrbType type, boolean withConsume) {
         this.value = value;
-        this.amountOfOrbs = amountOfOrbs;
+        this.amountOfOrbs = amountOfHits;
         this.valuePerOrb = valuePerOrb;
         this.type = type;
         this.withConsume = withConsume;

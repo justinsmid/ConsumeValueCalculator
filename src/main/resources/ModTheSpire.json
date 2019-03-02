@@ -3,8 +3,8 @@
   "name": "Consume Value Calculator",
   "author_list": ["Justin Smid"],
   "description": "A mod to calculate the value of using consume",
-  "version": "1.0.0",
-  "sts_version": "02-24-2019",
+  "version": "1.0.1",
+  "sts_version": "03-02-2019",
   "mts_version": "3.8.3",
   "dependencies": ["basemod"],
   "update_json": "https://github.com/justinsmid/ConsumeValueCalculator/releases/latest"
